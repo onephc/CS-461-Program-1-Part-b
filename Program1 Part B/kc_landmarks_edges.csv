@@ -1,0 +1,108 @@
+u,v,road
+1,16,Penn Valley Park paths
+1,2,Memorial grounds
+1,3,Pershing Rd
+1,55,Wyandotte St
+10,48,US-169 / Broadway Bridge
+10,51,I-35 / Riverfront
+10,59,I-35 / I-670
+11,12,Main St
+11,16,Memorial Dr
+12,13,Gillham Rd
+13,14,Broadway Blvd
+13,55,Gillham Rd
+13,56,Gillham Rd
+14,15,Broadway Blvd
+14,21,Broadway Blvd / Ward Pkwy
+14,42,E 31st St
+15,21,Broadway Blvd / Ward Pkwy
+16,55,Penn Valley Dr
+17,18,18th St
+17,41,18th St / Prospect Ave
+17,43,E 18th St
+17,44,Independence Ave / 19th St
+18,19,18th St
+19,20,18th St
+2,3,Pershing Rd
+20,41,18th St / Prospect Ave
+21,22,Ward Pkwy
+21,23,J.C. Nichols Pkwy
+21,25,46th St / Ward Pkwy
+21,42,The Paseo / Ward Pkwy
+22,23,J.C. Nichols Pkwy
+23,24,Mill Creek Park paths
+23,25,47th St
+23,26,47th St
+23,28,Brush Creek Trail
+25,26,Oak St
+25,29,Rockhill Rd / Ward Pkwy
+25,42,45th St
+25,56,Rockhill Rd
+26,27,Ward Pkwy
+27,28,Brush Creek Blvd
+28,29,Ward Pkwy
+29,30,Wornall Rd
+29,34,Ward Pkwy
+3,11,Pershing Rd
+3,4,Main St
+3,55,Main St
+30,31,Loose Park paths
+30,33,Wornall Rd
+30,34,W 55th St / Wornall Rd
+31,32,Loose Park paths
+32,33,Wornall Rd
+33,34,Ward Pkwy
+34,40,The Paseo / Ward Pkwy
+35,40,US-71 / The Paseo
+35,41,US-71
+35,43,Swope Pkwy
+35,57,Swope Pkwy
+36,37,Starlight Rd
+36,38,Zoo Dr
+36,43,Swope Pkwy / Swope Memorial Dr
+36,57,Swope Memorial Dr
+38,39,Swope Memorial Dr
+39,40,US-71
+39,58,Blue River Rd
+4,17,Truman Rd / Main St
+4,5,Broadway Blvd
+4,54,Broadway Blvd
+4,60,Broadway Blvd
+40,42,The Paseo
+41,42,The Paseo / E 31st St
+41,43,E 31st St / Prospect Ave
+41,47,The Paseo
+44,45,Gladstone Blvd
+44,47,Benton Blvd
+45,46,Gladstone Blvd
+46,47,Benton Blvd
+48,49,N Oak Trafficway
+48,51,I-29 / US-169
+48,59,I-635 / I-29
+49,50,Waukomis Dr / Line Creek Pkwy
+5,20,Truman Rd
+5,54,13th St
+5,59,I-670
+5,6,12th St
+5,60,Grand Blvd
+50,52,I-29 / I-435
+50,53,I-29
+51,53,I-29
+51,59,I-35
+52,53,KCI Ring Rd
+54,59,I-670
+54,60,Grand Blvd
+55,56,Linwood Blvd
+57,58,Blue River Rd / Trail
+6,44,I-70 / Independence Ave
+6,47,Independence Ave / The Paseo
+6,48,US-169 / Broadway Bridge
+6,60,Grand Blvd
+6,7,Oak St
+6,9,City Hall Plaza walk
+7,60,11th St / Oak St
+7,8,Grand Blvd
+8,10,Grand Blvd
+8,44,I-70 / Independence Ave
+8,51,Riverfront Trail / MO-9
+8,60,Grand Blvd

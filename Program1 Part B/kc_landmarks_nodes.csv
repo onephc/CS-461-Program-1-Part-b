@@ -1,0 +1,61 @@
+node,id,name,lat,lon,district
+1,1,Liberty Memorial,39.0809,-94.5858,Penn Valley
+2,2,National WWI Museum,39.0809,-94.5858,Penn Valley
+3,3,Union Station,39.0846,-94.5857,Crown Center
+4,4,Kauffman Center for Performing Arts,39.0939,-94.5873,Downtown
+5,5,Barney Allis Plaza Fountain,39.1,-94.5857,Downtown
+6,6,Kansas City City Hall,39.1006,-94.5778,Downtown
+7,7,Native Sons & Daughters Monument (Ilus Davis Park),39.1016,-94.5779,Downtown
+8,8,The Vision Fountain (River Market),39.105,-94.5831,River Market
+9,9,Spirit Catcher Sculpture (City Hall Plaza),39.1005,-94.5778,Downtown
+10,10,Corps of Discovery Monument (West Terrace Park),39.1059,-94.5912,Downtown
+11,11,Bloch Memorial Fountain,39.0841,-94.5841,Crown Center
+12,12,Skywalk Memorial Plaza,39.0845,-94.5789,Hospital Hill
+13,13,Gulf War Veterans Memorial,39.0802,-94.5781,Longfellow
+14,14,Vietnam Veterans Memorial Fountain,39.0508,-94.5883,Broadway
+15,15,Westport Memorial Marker,39.0543,-94.5909,Westport
+16,16,Pioneer Mother Memorial,39.077,-94.5861,Penn Valley
+17,17,American Jazz Museum,39.0914,-94.5627,18th & Vine
+18,18,Negro Leagues Baseball Museum,39.0914,-94.5627,18th & Vine
+19,19,Blue Room Jazz Club,39.0914,-94.5632,18th & Vine
+20,20,Charlie Parker 'Bird Lives' Memorial,39.0912,-94.5633,18th & Vine
+21,21,J.C. Nichols Memorial Fountain,39.0421,-94.588,Plaza
+22,22,Seville Light Fountain,39.0421,-94.588,Plaza
+23,23,Mill Creek Park Fountain,39.0461,-94.5883,Plaza
+24,24,Le Grand Noeud Sculpture,39.0461,-94.5883,Plaza
+25,25,Nelson-Atkins Museum of Art,39.0437,-94.589,Midtown
+26,26,Shuttlecock Sculptures,39.0437,-94.589,Midtown
+27,27,Chinese Warriors Sculpture,39.0407,-94.5903,Ward Parkway
+28,28,Sister Cities Bridge,39.0407,-94.5903,Brush Creek
+29,29,Married Love / Churchill Monument,39.0418,-94.5916,Ward Parkway
+30,30,Loose Park Fountain,39.0314,-94.5945,Loose Park
+31,31,Loose Park Garden Wall Fountain,39.0314,-94.5945,Loose Park
+32,32,Jacob L. Loose Memorial,39.0314,-94.5945,Loose Park
+33,33,Bob Arfsten Memorial,39.0132,-94.5916,Brookside
+34,34,Meyer Circle Seahorse Fountain,39.0128,-94.6023,Ward Parkway
+35,35,Karen Slack Steel Arch,39.0037,-94.5628,Southeast
+36,36,Starlight Theatre,39.0071,-94.5334,Swope Park
+37,37,Garden of the Stars Fountain,39.0071,-94.5334,Swope Park
+38,38,Kansas City Zoo Gate Sculpture,39.0076,-94.5296,Swope Park
+39,39,Architectural Folly Sculpture,38.9993,-94.5177,Swope Park
+40,40,Harold D. Rice Memorial Fountain,38.9966,-94.5662,The Paseo
+41,41,We Are A Bowl Sculpture,39.0773,-94.5528,Prospect Corridor
+42,42,Fitzsimons-Battenfeld Monument,39.0397,-94.5684,The Paseo
+43,43,Green Wings Sculpture,39.0381,-94.5314,East KC
+44,44,Kansas City Museum (Corinthian Hall),39.1158,-94.5424,Historic Northeast
+45,45,Scarritt Point Memorial,39.1167,-94.5429,Historic Northeast
+46,46,Richardson-Graham Bridge Memorial,39.1114,-94.5461,Historic Northeast
+47,47,The Colonnade (The Concourse),39.1125,-94.5447,Historic Northeast
+48,48,Bridge of Friendship Statue,39.1811,-94.5767,Northland
+49,49,Clay County Veterans Memorial,39.1805,-94.5735,Northland
+50,50,Line Creek Mosaic Sculpture,39.2027,-94.6098,Northland
+51,51,National Airline History Museum (Wheeler),39.123,-94.5985,Wheeler Airport
+52,52,Tingmissartoq Airport Sculpture (KCI),39.3054,-94.716,KCI
+53,53,KCI Chandelier Towers,39.2991,-94.7108,KCI
+54,54,Historic Garment District Museum,39.1046,-94.5881,Garment District
+55,55,Union Cemetery Memorial,39.0752,-94.5839,Union Hill
+56,56,Charles Carroll Spalding Memorial,39.0748,-94.5898,Midtown
+57,57,Trailside Center (Swope Park),39.0135,-94.5792,Swope Park
+58,58,Santa Fe Trail Marker (Minor Park),38.9253,-94.5713,Minor Park
+59,59,Bull Wall Sculpture (West Bottoms),39.0918,-94.606,West Bottoms
+60,60,The Moons Sculpture,39.0975,-94.5802,Downtown
